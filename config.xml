@@ -4,7 +4,7 @@
 <name>BlankProjectA</name>
 <description>Template to develop a Cordova mobile web app using the App Designer UI editor.</description>
 <author>Intel XDK</author>
-<content src="index.html"/>
+<content src="login.html"/>
 <preference name="android-build-tool" value="gradle" />
 <platform name="android" >
     <allow-intent href="http://*/*"/>
