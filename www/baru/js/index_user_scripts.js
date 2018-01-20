@@ -190,7 +190,7 @@
  $(document).on("click", "#btn_logout", function(evt)
     {
          /*global activate_page */
-    window.open("../login.html"); 
+    window.open("../index.html"); 
     });
     
 	 

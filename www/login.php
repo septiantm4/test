@@ -21,10 +21,10 @@ if (isset($_POST['username'])){
   $rows = mysqli_fetch_assoc($result);
         $_SESSION['username'] = $rows['username'];
         $_SESSION['nama']= $rows['nama'];
-        echo "<script>location='baru/halamanutama.php';</script>";
+        echo "<script>location='baru/index.html';</script>";
     } else {
         echo "<script>alert('Username atau Password Anda tidak benar !!!');</script>";
-        echo "<script>location='login.php';</script>";
+        echo "<script>location='index.html';</script>";
     }
 }
 ?>

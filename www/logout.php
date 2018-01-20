@@ -4,6 +4,6 @@ session_start();
 unset($_SESSION['username']);
 
 // Rdirecting To Home Page
-header("Location:login.html");
+header("Location:index.html");
 
 ?>
