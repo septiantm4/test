@@ -1,0 +1,11 @@
+  <div class="navbar inner-element uib_w_1 bgheader" data-uib="framework7/header" data-ver="0">
+              <div class="navbar-inner">
+                <div class="left">
+                  <div class="widget-container content-area horiz-area wrapping-col"></div>
+                </div>
+                <div class="center labeltext"></div>
+                <div class="right">
+                  <div class="widget-container content-area horiz-area wrapping-col"></div>
+                </div>
+              </div>
+            </div>
